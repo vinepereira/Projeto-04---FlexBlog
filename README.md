@@ -1,4 +1,4 @@
-# Projeto 04 - FlexBlog
+# Projeto 04 - FlexBlog (Origamid)
 Site 100% Flex e seus conceitos
 
 # Tecnologias:
